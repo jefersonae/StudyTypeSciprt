@@ -8,5 +8,5 @@ let functionBussiness : string = "Java developer";
 console.log(functionBussiness);
 
 // Exemplo 3
-let dadosFuncionario : string = `Olá bem vindo ${nomeCompleto} você é um ${functionBussiness}`;
+let dadosFuncionario : string = `Olá bem vindo, ${nomeCompleto} você é um ${functionBussiness}`;
 console.log(dadosFuncionario);
